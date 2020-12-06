@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;03-SBMS-FI/src/main/java/com.codingtest&apos;&#x0D;&#x0A;- Original project: &apos;02-SBMS-CI&apos;&#x0D;&#x0A;- Destination element: &apos;03-SBMS-FI/src/main/java/com.codingtest&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.codingtest.Car.java&#x0D;&#x0A;     com.codingtest.Engine.java" description="Copy compilation units" destination="=03-SBMS-FI/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingtest" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingtest{Car.java" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.codingtest{Engine.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1602904931581" units="2" version="1.0"/>
+</session>

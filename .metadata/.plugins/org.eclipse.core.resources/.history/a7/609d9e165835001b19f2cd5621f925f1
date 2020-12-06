@@ -1,0 +1,2 @@
+package com.codingtest.repository;
+public interface PersonRepository extends CrudRepository<Person, Integer> {}

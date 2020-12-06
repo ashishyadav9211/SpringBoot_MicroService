@@ -1,0 +1,7 @@
+package com.codingtest.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.codingtest.entity.Person;
+
+public interface PersonRepository extends CrudRepository<Person, Integer> {}

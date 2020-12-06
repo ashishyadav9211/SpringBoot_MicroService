@@ -1,0 +1,14 @@
+[	{
+	  "cid" : 101,
+	  "cname" : "John",
+	  "cemail" : "john.k@ibm.com"
+	},
+	{
+	  "cid" : 102,
+	  "cname" : "arthur",
+	  "cemail" : "arthur.k@ibm.com"
+	},
+	{
+	"cid" : 103,
+	  "cname" : "Merlin",
+	  "cemail" : "merlin.k@ibm.com"}]
