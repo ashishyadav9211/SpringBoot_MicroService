@@ -12762,3 +12762,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.xml.bind.api.ErrorListener
 	... 87 common frames omitted
 2020-12-09 23:30:27,570 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: C:\Users\Ashish\Downloads\JaxbAdvancedDemo\target\generated-sources\xjc\workflow added.
 2020-12-09 23:30:27,571 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-09 23:30:27,572 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-09 23:30:27,574 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-09 23:30:27,575 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ashish\Downloads\JaxbAdvancedDemo\src\test\resources
