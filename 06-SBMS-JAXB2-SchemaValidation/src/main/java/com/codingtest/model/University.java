@@ -18,7 +18,7 @@ public class University {
     private String address;
      
     @XmlElementWrapper(name = "Students")
-    @XmlElement(name = "Student")
+    @XmlElement(name ="student")
     public List<Student> getStudents() {
         return students;
     }
