@@ -2,6 +2,7 @@ package com.codingtest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 /**
  * 
@@ -13,7 +14,7 @@ Using url parameter - In the request we specify the required response type using
 Using Accept Headers - When making a request using HTTP we specify required response by setting the Accept header property. Its something like this
  */
 @SpringBootApplication
-@EnableWebMvc
+@EnableJpaAuditing
 public class Application {
 
 	public static void main(String[] args) {
