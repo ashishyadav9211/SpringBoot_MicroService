@@ -2,14 +2,20 @@ server:
   port: 8888
 spring:
   profiles:
-    active: native
+    active: git
   application:
     name: config-server
   cloud:
     config:
       server:
-        native:
-          search-locations: classpath:/configurations
+        git:
+          uri: https://github.com/ashishyadav9211/SpringBoot_MicroService.git
+          default-label: main
+          search-paths: -config/configurations
+          clone-on-start: true
+
+        # native:
+        #   search-locations: classpath:/configurations
 management:
   endpoints:
     web:
